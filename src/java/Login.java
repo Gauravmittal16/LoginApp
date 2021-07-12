@@ -100,7 +100,7 @@ public void processRequest(HttpServletRequest req,HttpServletResponse res)throws
 "<tr><td colspan=\"2\"><input type=\"text\" class=\"modify\" placeholder=\"username\"  name=\"username\"></td></tr>\n" +
 "<tr><td colspan=\"2\"><input type=\"password\" class=\"modify\" placeholder=\"password\" name=\"password\"></td></tr>\n" +
 "<tr><td colspan=\"2\"><input type=\"submit\"  id=\"sub\" value=\"Log In\" style=\"background-color:4183D7\"/></td></tr>\n" +
-"<tr><td > Not yet a member <a  id=\"decor\" href=\"#\">Sign up?</a></td><td><a id=\"frdecr\" href=\"#\">Forgot password ?</a></td></tr>\n" +
+"<tr><td > Not yet a member of it<a  id=\"decor\" href=\"#\">Sign up?</a></td><td><a id=\"frdecr\" href=\"#\">Forgot password ?</a></td></tr>\n" +
 "</table>\n" +
 "</form> \n" +
 "<script type=\"text/javascript\">\n" +
